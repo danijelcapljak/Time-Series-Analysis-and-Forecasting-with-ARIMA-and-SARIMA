@@ -1,5 +1,5 @@
 # Time-Series-Analysis-and-Forecasting-with-ARIMA-and-SARIMA
-Temperature mesured on Raspberry Pi 3 Model B using DS18B20 TEMPERATURE SENSOR.
+Temperature measured on Raspberry Pi 3 Model B using DS18B20 TEMPERATURE SENSOR.
 ## I used theese tutorials: 
  - [Temperature Data to CSV](https://www.raspberrypi.org/forums/viewtopic.php?t=208234 "Temperature Data to CSV")
  - [Arduino DS18B20 temperature sensor data logging to CSV/Excel](https://www.youtube.com/watch?v=gPGU_gb9f5I&t=304s "Arduino DS18B20 temperature sensor data logging to CSV/Excel")
